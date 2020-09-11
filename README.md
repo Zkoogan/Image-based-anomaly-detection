@@ -4,4 +4,6 @@ In order to use an unmanned vehicle you must be certain that the collision avoid
 
 The algorithm that I created for this purpose consists of a few major components namely, a variational autoencoder, superpixel segmentation and stereovision. In its final form the algorithm is able to detect anomalies in image data and subsequently calculate the distance to the object.
 
-A few pictures of the results from early development can be found in this repository.
+A picture of the results from early development can be found in this repository. 
+
+Due to NDA no code and further results will be presented.
